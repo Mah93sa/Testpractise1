@@ -1,4 +1,8 @@
 .one{
   background-color: rgb(79, 129, 166);
-  color:rgb(242, 205, 111); 
+  color:rgb(242, 205, 111);
+}
+
+.two{
+  color: rgba(152, 106, 145, 0.89);
 }
